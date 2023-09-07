@@ -1,0 +1,19 @@
+div.menu-nav, table, tr, td, a {
+    margin: 7px;
+    background-color: black;
+    color: white;
+}
+
+div.slide-menu, tr, td{
+    margin-top: 0.3em; 
+    margin-left: 1em;
+}
+
+footer.footer {
+    background-color: black;
+    color: white;
+}
+div.copy, #alamat-footer {
+    text-decoration: center;
+    text-align: center;
+}
